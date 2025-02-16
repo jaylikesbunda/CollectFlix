@@ -1,4 +1,5 @@
 # CollectFlix (ALPHA)
+> uses the eBay and TMDB API (you will need to source keys)
 ![Spooky_Logo](https://github.com/user-attachments/assets/a2e0c481-0745-40af-9000-8a651233fa7e)
 
 ## Requirements
