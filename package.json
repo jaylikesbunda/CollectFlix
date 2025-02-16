@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "@zxing/library": "^0.21.2",
+    "axios": "^1.7.3",
+    "file-saver": "^2.0.5",
+    "html5-qrcode": "^2.3.8",
+    "ngrok": "^5.0.0-beta.2",
+    "quagga": "^0.12.1",
+    "react-webcam": "^7.2.0",
+    "react-zxing": "^2.0.2"
+  }
+}
